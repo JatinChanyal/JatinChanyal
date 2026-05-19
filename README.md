@@ -1,7 +1,7 @@
 ## Hi there, I'm Jatin Chanyal👋
 
-Frontend Developer|React*TypeScript
-
+Frontend Developer | React | TypeScript
+ 
 <!--
 **JatinChanyalHub/JatinChanyalHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
