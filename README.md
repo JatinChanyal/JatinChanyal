@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi, I’m Jatin Chanyal, a B.Tech Computer Science student with a strong interest in Full Stack Web Development. I have around 6 months of hands-on experience building web applications and improving my development skills through practical projects and continuous learning.<br>I enjoy creating responsive, user-friendly, and functional web applications using modern web technologies. One of my projects includes a Weather Application that provides real-time weather updates with a clean and interactive interface.<br>I’m always eager to learn new technologies, enhance my problem-solving abilities, and work on projects that help me grow as a developer.
+Hi, I’m Jatin Chanyal, a B.Tech Computer Science student with a strong interest in Full Stack Web Development. I have around 6 months of hands-on experience building web applications and improving my development skills through practical projects and continuous learning.<br>I enjoy creating responsive, user-friendly, and functional web applications using modern web technologies. One of my projects includes a Weather Application that provides real-time weather updates with a clean and interactive interface and my personal portfolio wesbite.<br>I’m always eager to learn new technologies, enhance my problem-solving abilities, and work on projects that help me grow as a developer.
 
 
 ## 🌐 Socials:
