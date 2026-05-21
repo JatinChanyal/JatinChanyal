@@ -81,7 +81,7 @@ Hello, I'm an AI Engineer and Data Scientist with an B.Btech in Computer Science
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="code_d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/shsarv/shsarv/blob/master/code.gif">
-  <img src="https://github.com/shsarv/shsarv/blob/master/code.gif">
+  <img src="code.gif">
 </picture>
 
 </td>
