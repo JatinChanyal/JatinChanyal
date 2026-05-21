@@ -5,9 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Explainable+ML+%7C+Human-Centered+AI+%F0%9F%94%8D;Transformers+%7C+LLMs+%7C+Deep+Learning+%F0%9F%9A%80;Quantitative+Researcher+%F0%9F%93%88;Signals.+Structure.+Alpha.+%E2%9C%A6;Stochastic+Processes+%7C+Factor+Models+%F0%9F%A7%AE;ML+%C3%97+Finance+%E2%80%94+Math+Markets+%F0%9F%9A%80;)](https://git.io/typing-svg)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shsarv2001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shsarv)
-[![Profile Views](https://komarev.com/ghpvc/?username=shsarv&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/shsarv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jatinchanyal1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JatinChanyalHub)
+[![Profile Views](https://komarev.com/ghpvc/?username=shsarv&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/JatinChanyalHub)
 
 <h4 align="center">⚠️Info: This Tortoise 🐢 is in Hibernation for Indefinite Time⚠️</h4>
 </div>
@@ -21,11 +21,9 @@
 <tr>
 <td valign="top" colspan="2">
 <p align="justify">
-Hello, I'm a Quantitative Researcher and former Data Scientist with an M.S. in Data Science from the University of Illinois , building systematic strategies at the intersection of statistical theory, machine learning, and market microstructure. My work spans factor model construction, stochastic volatility modeling, and ML-driven signal research, with one consistent obsession: extracting durable edge from structure that others mistake for noise.  <br /><br /> My background bridges both worlds production-grade data science across Transformer models, large-scale NLP, and deep learning systems, grounded in the mathematical foundations that quantitative research demands. The combination shapes how I think: rigorously about markets, and practically about the systems built to trade them. 
+Hello, I'm an AI Engineer and Data Scientist with an B.Btech in Computer Science from the University of Jammu , building systematic strategies at the intersection of statistical theory, machine learning, and market microstructure. My work spans factor model construction, stochastic volatility modeling, and ML-driven signal research, with one consistent obsession: extracting durable edge from structure that others mistake for noise.  <br /><br /> My background bridges both worlds production-grade data science across Transformer models, large-scale NLP, and deep learning systems, grounded in the mathematical foundations that quantitative research demands. The combination shapes how I think: rigorously about markets, and practically about the systems built to trade them. 
 <h5>Current research:</h5>
 <ul>
-<li>regime-conditioned factor models, RL-based execution</li>
-<li>optimization, and Transformer architectures on high-frequency financial sequences.</li>
 </ul>
 <q><i>I don't optimize for impressive backtests. I optimize for strategies that survive.</i></q>
 </p>
@@ -81,7 +79,7 @@ Hello, I'm a Quantitative Researcher and former Data Scientist with an M.S. in D
 <td width="50%">
   <!-- <img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="100%" height="270" /> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shsarv/shsarv/blob/master/code_d.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JatinChanyalHub/code_d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/shsarv/shsarv/blob/master/code.gif">
   <img src="https://github.com/shsarv/shsarv/blob/master/code.gif">
 </picture>
