@@ -1,7 +1,7 @@
 <!-- --------------------------------Header Section Sarts ------------------------------- -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jatin%20Chanyal%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learner%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer &descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jatin%20Chanyal%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learner%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Explainable+ML+%7C+Human-Centered+AI+%F0%9F%94%8D;Transformers+%7C+LLMs+%7C+Deep+Learning+%F0%9F%9A%80;Quantitative+Researcher+%F0%9F%93%88;Signals.+Structure.+Alpha.+%E2%9C%A6;Stochastic+Processes+%7C+Factor+Models+%F0%9F%A7%AE;ML+%C3%97+Finance+%E2%80%94+Math+Markets+%F0%9F%9A%80;)](https://git.io/typing-svg)
 
