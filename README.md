@@ -21,7 +21,7 @@
 <tr>
 <td valign="top" colspan="2">
 <p align="justify">
-Hello, I'm an AI Engineer and Data Scientist with an B.Btech in Computer Science from the University of Jammu , building systematic strategies at the intersection of statistical theory, machine learning, and market microstructure. My work spans factor model construction, stochastic volatility modeling, and ML-driven signal research, with one consistent obsession: extracting durable edge from structure that others mistake for noise.  <br /><br /> My background bridges both worlds production-grade data science across Transformer models, large-scale NLP, and deep learning systems, grounded in the mathematical foundations that quantitative research demands. The combination shapes how I think: rigorously about markets, and practically about the systems built to trade them. 
+Hello, I'm an AI Engineer and Data Scientist with a Btech in Computer Science from the University of Jammu , building systematic strategies at the intersection of statistical theory, machine learning, and market microstructure. My work spans factor model construction, stochastic volatility modeling, and ML-driven signal research, with one consistent obsession: extracting durable edge from structure that others mistake for noise.  <br /><br /> My background bridges both worlds production-grade data science across Transformer models, large-scale NLP, and deep learning systems, grounded in the mathematical foundations that quantitative research demands. The combination shapes how I think: rigorously about markets, and practically about the systems built to trade them. 
 <h5>Current research:</h5>
 <ul>
 </ul>
