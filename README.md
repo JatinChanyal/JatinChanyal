@@ -93,10 +93,10 @@ Hello, I'm an AI Engineer and Data Scientist with a Btech in Computer Science fr
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shsarv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JatinChanyal&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false)"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsarv&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinChanyal&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
 </td>
 </tr>
 </table>
