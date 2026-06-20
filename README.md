@@ -34,7 +34,7 @@ Hello, I'm an AI Engineer and Data Scientist with a Btech in Computer Science fr
   
 <tr><th align="center" colspan="2">🔬 Core Research Areas</th></tr>
 <tr>
-<td width="50%" align="justify">
+<td width="50%" align="justify"
   
 **📊 Quantitative Finance**
 - Statistical Arbitrage & Pairs Trading
