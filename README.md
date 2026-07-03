@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Explainable+ML+%7C+Human-Centered+AI+%F0%9F%94%8D;Transformers+%7C+LLMs+%7C+Deep+Learning+%F0%9F%9A%80;Quantitative+Researcher+%F0%9F%93%88;Signals.+Structure.+Alpha.+%E2%9C%A6;Stochastic+Processes+%7C+Factor+Models+%F0%9F%A7%AE;ML+%C3%97+Finance+%E2%80%94+Math+Markets+%F0%9F%9A%80;)](https://git.io/typing-svg)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jatinchanyal1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JatinChanyalHub)
-[![Profile Views](https://komarev.com/ghpvc/?username=shsarv&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/JatinChanyalHub)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JatinChanyal)
+[![Profile Views](https://komarev.com/ghpvc/?username=shsarv&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/JatinChanyal)
 
 <h4 align="center">⚠️Info: This Tortoise 🐢 is in Hibernation for Indefinite Time⚠️</h4>
 </div>
