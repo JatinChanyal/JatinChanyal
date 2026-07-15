@@ -1,4 +1,4 @@
-![logo](https://github.com/JatinChanyal/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/JatinChanyal/JatinChanyal/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jatin Chnayal</h1>
 <h3 align="center">A passionate Data Scientist and ML Engineer from 🇮🇳 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
