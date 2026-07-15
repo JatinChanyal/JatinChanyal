@@ -1,109 +1,194 @@
-<!-- --------------------------------Header Section Sarts ------------------------------- -->
+![logo](https://github.com/JatinChanyal/JatinChanyal/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+<h1 align="center">Hi 👋, I'm Jatin Chnayal</h1>
+<h3 align="center">A passionate Data Scientist and ML Engineer from 🇮🇳 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jatin%20Chanyal%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learner%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer&descAlignY=55&descSize=16"/>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=JatinChanyal&label=Profile%20views&color=10b981&style=flat" alt="JatinChanyal" /> <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Explainable+ML+%7C+Human-Centered+AI+%F0%9F%94%8D;Transformers+%7C+LLMs+%7C+Deep+Learning+%F0%9F%9A%80;Quantitative+Researcher+%F0%9F%93%88;Signals.+Structure.+Alpha.+%E2%9C%A6;Stochastic+Processes+%7C+Factor+Models+%F0%9F%A7%AE;ML+%C3%97+Finance+%E2%80%94+Math+Markets+%F0%9F%9A%80;)](https://git.io/typing-svg)
+<a href="https://wakatime.com/@JatinChanyal"> 
+  <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@JatinChanyal" /> 
+</a> 
+<br>
+<img src="https://img.shields.io/badge/Computer%20Science-Undergraduate-6366f1?style=flat&logo=google-scholar&logoColor=white" alt="CS Undergraduate"/>
+<img src="https://img.shields.io/badge/Academic-2rd%20Year-ec4899?style=flat&logo=openbadges&logoColor=white" alt="Second Year"/>
+<br>
+<img src="https://img.shields.io/badge/AI%2FML-Developer-f97316?style=flat&logo=python&logoColor=white" alt="AI/ML Developer"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/JatinChanyal"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/JatinChanyal">
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jatinchanyal1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JatinChanyal)
-[![Profile Views](https://komarev.com/ghpvc/?username=shsarv&label=Profile+Views&color=58A6FF&style=flat)](https://github.com/JatinChanyal)
+<h2><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h2>
 
-<h4 align="center">⚠️Info: This Tortoise 🐢 is in Hibernation for Indefinite Time⚠️</h4>
-</div>
-<!-- -------------------------------------------- Header section ends here------------------------------------------------ -->
-<!-- --------------------------------------------About Me Section start from here-------------------------------------------- -->
-<div>
+#### Hi there! 👋
+
+I'm Jatin Chanyal passionate about technology and coding, a CSE(AI/ML) student pursuing my B.Tech at MBSCET.
+
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+
+#### 🌱 I'm Currently Learning:
+
+- Diving into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
+- Python to enhance my coding proficiency.
+- Also learning Java.
+
+#### 👯 I’m Looking to:
+
+- Connect with other students and developers.
+- Collaborate on interesting projects.
+- Learn from and contribute to the open-source community.
+
+#### 📫 How to Reach Me:
+
+- Email: jatinchanyal.work@gmail.com
+- Website: https://jatinchanyal.github.io/My-Portfoilio/
+
+#### ⚡ Fun Fact:
+
+I believe in the power of technology to help mankind. Looking forward to connecting with like-minded individuals and learning together!
+
+Happy coding! 🚀
+
+
+<h2><img height="30" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlkMmJxM3F0ZzVnaHBpYW9yc2w4c2hkOXl0MnpjNzdwZmZiZWk2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RTUOrALrZCuPydY4sf/giphy.gif"/> Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/JatinChanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JatinChanyal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/JatinChanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JatinChanyal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22981426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22981426" height="30" width="40" /></a>
+<a href="https://kaggle.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="JatinChanyal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jatin2206" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="jatin2206" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/JatinChanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="JatinChanyal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/JatinChanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="JatinChanyal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/JatinChanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JatinChanyal" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@JatinChanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e10751ddb9a7926eee083c77d1a99ddca64a2c04/icons/hackerearth.svg" alt="@JatinChanyal" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/jatinchanyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jatinchanyal" height="30" width="40" /></a>
+</p>
+
+<h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
 <table>
-<tr>
-<th colspan="2">👨‍💻 About Me</th>
-</tr>
-<tr>
-<td valign="top" colspan="2">
-<p align="justify">
-Hello, I'm an AI Engineer and Data Scientist with a Btech in Computer Science from the University of Jammu , building systematic strategies at the intersection of statistical theory, machine learning, and market microstructure. My work spans factor model construction, stochastic volatility modeling, and ML-driven signal research, with one consistent obsession: extracting durable edge from structure that others mistake for noise.  <br /><br /> My background bridges both worlds production-grade data science across Transformer models, large-scale NLP, and deep learning systems, grounded in the mathematical foundations that quantitative research demands. The combination shapes how I think: rigorously about markets, and practically about the systems built to trade them. 
-<h5>Current research:</h5>
-<ul>
-</ul>
-<q><i>I don't optimize for impressive backtests. I optimize for strategies that survive.</i></q>
-</p>
-</td>
-</tr>
-<!-- --------------------------------------------About Me Section ends here-------------------------------------------- -->
-<!-- --------------------------------------------Research Area Section start from here--------------------------------------- -->
-  
-<tr><th align="center" colspan="2">🔬 Core Research Areas</th></tr>
-<tr>
-<td width="50%" align="justify">
-  
-**📊 Quantitative Finance**
-- Statistical Arbitrage & Pairs Trading
-- Factor Model Construction (Fama-French, PCA)
-- Derivatives Pricing — Monte Carlo, Finite Difference
-- Portfolio Optimization (Black-Litterman, Kelly)
-- Regime Detection & Hidden Markov Models
-- Volatility Surface Modeling & Term Structure
-  
-</td>
-<td width="50%" align="justify">
-  
-**🤖 Machine Learning & AI**
-- Reinforcement Learning — PPO, MADDPG
-- Transformers on sequential financial data
-- Graph Neural Networks for market structure
-- Explainable AI — SHAP, LIME, XAI frameworks
-- NLP on alternative data (earnings calls, filings)
-- Causal Inference for strategy validation
-  
-</td>
-</tr>
-<!-- --------------------------------------------research Area Section ends here-------------------------------------------- -->
-<!-- --------------------------------------------Tech Stack Section start from here------------------------------------------ -->
-<tr> 
-<th width="100%" align="center" colspan="2">🧰 Tech Stack</th>
-</tr>
-<tr>
-<td width="50%">
-<p align="justify">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white)
-![QuantLib](https://img.shields.io/badge/QuantLib-0a0a0a?style=flat-square) ![CVXPY](https://img.shields.io/badge/CVXPY-0a0a0a?style=flat-square) ![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=flat-square&logo=python&logoColor=white) ![ARCH](https://img.shields.io/badge/ARCH-0a0a0a?style=flat-square) ![PyPortfolioOpt](https://img.shields.io/badge/PyPortfolioOpt-0a0a0a?style=flat-square) ![Zipline](https://img.shields.io/badge/Zipline-0a0a0a?style=flat-square) ![Backtrader](https://img.shields.io/badge/Backtrader-0a0a0a?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-02B2AC?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black) ![Optuna](https://img.shields.io/badge/Optuna-5A67D8?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+  <tr>
+    <th align="center">Web Development</th>
+    <th align="center">Backend & Python Stack</th>
+    <th align="center">Data Science & ML</th>
+    <th align="center">Databases</th>
+    <th align="center">Tools & Deployment</th>
+    <th align="center">Languages</th>
+  </tr>
 
-</p>
-</td>
-<td width="50%">
-  <!-- <img align="right" alt="GIF" src="https://github.com/shsarv/shsarv/blob/master/code.gif" width="100%" height="270" /> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="code_d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xanj0/xanj0/blob/main/code.gif">
-  <img src="code.gif">
-</picture>
+  <tr>
+<!-- WEB DEV -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="40"/>
+      <img src="https://skillicons.dev/icons?i=css" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=js" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=vue" height="40"/>
+    </td>
 
-</td>
-</tr>
-<!-- --------------------------------------------tech Stats Section ends here-------------------------------------------- -->
-<!-- --------------------------------------------github Stats Section start from here---------------------------------------- -->
-<tr>
-<td colspan="2" align="center">📊 GitHub Stats</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=JatinChanyal&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false)"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinChanyal&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
-</td>
-</tr>
+<!-- BACKEND -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="40"/>
+      <img src="https://skillicons.dev/icons?i=django" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=flask" height="40"/>
+      <img src="https://skillicons.dev/icons?i=anaconda" height="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
+    </td>
+
+<!-- DATA SCIENCE -->
+   <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+    </td>
+
+<!-- DATABASES -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+    </td>
+
+<!-- TOOLS -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="40"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=heroku" height="40"/>
+      <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+    </td>
+
+<!-- LANGUAGES -->
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="40"/>
+      <img src="https://skillicons.dev/icons?i=py" height="40"/>
+    </td>
+  </tr>
 </table>
-</div>
-<!-- --------------------------------------------github Stats Section ends here-------------------------------------------- -->
-<!-- --------------------------------------------footer Section start from here------------------------------------------ -->
+
+<h2 align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ241djRsZXUzaDI1OGQycXlwOWw3b3FhajA5cTQwaHE0NGJ5eGU4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoN2bykCKNOrpNxIlT/giphy.gif" width="40" style="vertical-align: middle;"/>
+  Coding Profiles Stats:
+</h2>
+
+<p> <img align="left" src="https://leetcard.jacoblin.cool/JatinChanyal?ext=contest" alt="JatinChanyal" width="370px"> </p>
+<p> <img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=xanj0&theme=tokyonight" alt="xanj0"> </p>
+<a href="https://www.geeksforgeeks.org/user/jatinchanyal/">
+  <img align="center" src="https://gfgstatscard.vercel.app/jatinchanyal" alt="GFG stats" />
+</a>
+
+<h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> GitHub Stats:</h2>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,2,0&height=220&section=header&text=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&fontSize=20&fontColor=E8D5A3&animation=fadeIn&fontAlignY=45&desc=—%20W.%20Edwards%20Deming&descAlignY=68&descSize=12&descColor=8A9BAE"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+  <table>
+    <p align='center'>
+      <p align="center"><img src="lofi-gopher-4-min.png" alt="lofi-gopher" width="310" /><img src="https://github-readme-stats-git-main-jsoncam.vercel.app/api?username=JatinChanyal&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=FFFFFF&icon_color=48ACF0&bg_color=00000000&card_width=400&show=prs_merged" alt="GitHub Stats" />
+    </p>
+        <td align="center">
+          <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+          <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JatinChanyal" alt="GitHub Streak Stats"/>
+          <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
+        </td>
+      </tr>
+    </table>
+  
+  </div>
+    </tr>
+  </table>
+
 </div>
-<!-- --------------------------------------------footer Section ends here-------------------------------------------- -->
+
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JatinChanyal&layout=compact&theme=default" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JatinChanyal" alt="JatinChanyal" /></a> </p>
+
+<h2><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinChanyal&bg_color=ffffff&color=000000&line=007acc&point=ff6f61&area=true&hide_border=false" style="border-radius: 15px;">
+</div>
+
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+
+<p align="center">
+   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=f0f0f0&author_color=000000&quote_color=333333">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+### ...Show some ❤️ by starring some of the repositories 😊!
+
+</div>
+
+<p align="center">
+<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
