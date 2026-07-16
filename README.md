@@ -167,7 +167,7 @@ Happy coding! 🚀
 
 <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JatinChanyal&layout=compact&theme=default" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JatinChanyal" alt="JatinChanyal" /></a> </p>
+<p align="center"> <a href="https://github.com/JatinChanyal/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JatinChanyal" alt="JatinChanyal" /></a> </p>
 
 <h2><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h2>
 <div align="center">
